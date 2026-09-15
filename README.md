@@ -76,7 +76,7 @@ Actual 1  [   0   865 ]
 
 ---
 
-## Part 2 — Recommendation & Targeting System (`Customer_Engagement_Analytics.ipynb`)
+## Part 2 — Recommendation & Targeting System (`Customer_Engagement_Analytics (1).ipynb`)
 
 ### Engagement Scoring
 Assigned weights to event types to capture interaction intent:
